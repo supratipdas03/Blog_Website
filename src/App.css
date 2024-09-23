@@ -1,0 +1,110 @@
+.text-size {
+  font-size: 30px;
+}
+
+.post-image {
+  margin-bottom: 40px;
+}
+
+.post-title {
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+  font-weight: 700;
+  margin-bottom: 2.25rem;
+  text-align: center;
+}
+
+.date {
+  margin-top: 0.625rem;
+  margin-bottom: 0.625rem;
+  display: flex;
+}
+
+.top {
+  margin-top: 8px !important;
+}
+
+.size {
+  font-size: 21px !important;
+}
+
+.share {
+  display: flex;
+  margin-left: 75%;
+}
+
+.ico {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.para {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
+  text-align: justify;
+}
+
+.post-image {
+  margin-bottom: 2.25rem;
+}
+
+.bold-text {
+  font-weight: 900;
+}
+
+.recomend {
+  font-size: 1.5rem;
+  line-height: 2rem;
+  font-weight: 700;
+  margin-top: 0.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.card {
+  width: 19rem;
+  border-radius: 6px;
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.card img {
+  width: 17rem;
+  height: 10rem;
+  border-radius: 6px 6px 0 0;
+}
+
+.card-body {
+  padding: 16px 16px;
+}
+
+.card-body h3 {
+  font-size: 18px;
+  line-height: 28px;
+  margin-bottom: 12px;
+}
+
+.card-body p {
+  font-size: 16px;
+  line-height: 24px;
+}
+
+.card-imag {
+  width: 100% !important;
+}
+
+.big-blog-img {
+  background-image: url("./assets/tech.jpg");
+  background-size: 935px 432px;
+  background-repeat: no-repeat;
+}
+
+.textz {
+  color: white;
+}
+
+.blog-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, auto));
+  /* padding: 35px 0px 20px 46px; */
+}
